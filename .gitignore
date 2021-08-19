@@ -1,0 +1,6 @@
+# ignore IDE technical files
+/.idea/
+*.iml
+
+# ignore target/
+/target/
